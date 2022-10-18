@@ -1,0 +1,11 @@
+NUMBER=4
+
+let RESULT=NUMBER+5
+echo result from let: $RESULT
+
+RESULT=$(( NUMBER+5 ))
+echo "result from (( )): $RESULT"
+
+RESULT=$[ NUMBER + 5 ]
+echo reslt from [ ]: $RESULT
+
