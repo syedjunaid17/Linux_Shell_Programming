@@ -1,0 +1,12 @@
+NAME:          junaid
+AGE:           18
+DEPARTMENT:    cse
+=======================
+NAME:          meow
+AGE:           4
+DEPARTMENT:    laziness
+=======================
+NAME:          zoheb
+AGE:           16
+DEPARTMENT:    zoo
+=======================
